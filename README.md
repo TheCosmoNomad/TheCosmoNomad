@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Anubhav Das
 
-<!--
-**TheCosmoNomad/TheCosmoNomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Java • Spring Boot • React  
+💡 Building scalable, reliable, and user-focused applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a Full Stack Developer with experience in building **production-grade web applications** using **Java (Spring Boot)** on the backend and **React** on the frontend. I enjoy solving real-world problems, improving system performance, and writing clean, maintainable code.
+
+- 🎨 Frontend: React, TypeScript, HTML, CSS
+- 🔧 Backend: Java, Spring Boot, REST APIs, Microservices
+- 🗄️ Databases: PostgreSQL
+- ⚙️ DevOps & Tools: AWS, Docker, Kubernetes, GitHub Actions
